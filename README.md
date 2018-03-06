@@ -29,4 +29,26 @@ This includes basic trigonometric, exponential and logarithmic operations.
 
 > We have added operations of **Differentiation, Integration** , and algebric operations such as **simplification, factorisation, Expanding and solving the equation.**
 
-![adv_sci_calc]()
+![adv_sci_calc](https://github.com/kunalsahni99/Ad_Calc/blob/master/adv_sci_calc.png)
+
+#### Example : Usage of d/dx button
+**Before using d/dx**
+![b_diff](https://github.com/kunalsahni99/Ad_Calc/blob/master/b_diff.png)
+
+**After using d/dx button**
+![a_diff](https://github.com/kunalsahni99/Ad_Calc/blob/master/b_diff.png)
+
+## 3. Matrix:
+Certain basic operations on matrices such as **addition (A+B), subtraction (A-B), multiplication (A.B), Inverse** etc. can be done using this app.
+
+![Layout](https://github.com/kunalsahni99/Ad_Calc/blob/master/Matrix.png)
+
+#### Example : Entering the values in Matrix and executing *RREF* operation
+
+> Values entered:
+
+![Enter_value](https://github.com/kunalsahni99/Ad_Calc/blob/master/Enter_value.png)
+
+> Operation executed:
+
+![op](https://github.com/kunalsahni99/Ad_Calc/blob/master/op.png)
